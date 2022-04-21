@@ -1,3 +1,5 @@
 # Starbucks Clone
 
-HTML/CSS clone of the Starbucks.com website to showcase my skills alongside implementing a JS menu functionality for mobile devices.
+Created a starbucks.com clone during their christmas theme
+
+Live Site Link: https://iangongwer.github.io/StarbucksClone/
